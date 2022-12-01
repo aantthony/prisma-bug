@@ -1,0 +1,17 @@
+{
+  "name": "prisma-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "prisma generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^4.7.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.7.0"
+  }
+}

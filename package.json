@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "prisma": "^4.7.0"
+    "prisma": "^4.7.1"
   },
   "dependencies": {
-    "@prisma/client": "^4.7.0"
+    "@prisma/client": "^4.7.1"
   }
 }
